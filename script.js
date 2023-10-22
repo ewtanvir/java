@@ -8,7 +8,7 @@ function getLinkForKey(key) {
         "xnks": "https://exdbvxcample.com/link2",
         "skdk": "https://dg.com/link2",
         "mdmdk": "https://edggdgxample.com/link2",
-        "mmm": "https://dgdg  dg.com/link2",
+        "mmm": "https://dgdg fmffmfmfmfmfmf  dg.com/link2",
         "MMM": "https://dgdgdg.com/link2",
         "#": "https://dgdg.com/link2",
         "S": "#",
