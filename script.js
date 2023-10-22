@@ -14,6 +14,10 @@ function getLinkForKey(key) {
         "S": "#",
         "101": "https://exampdgdgle.com/link2",
         "MmM": "https://exadgdgdgmple.com/link2",
+
+"20222": "sssssssssssssssssssssssss",
+
+        
         // Add more key-to-link mappings as needed
     };
 
