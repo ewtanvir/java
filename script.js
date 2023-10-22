@@ -10,7 +10,7 @@ function getLinkForKey(key) {
         "mdmdk": "https://edggdgxample.com/link2",
         "mmm": "https://dgdg  dg.com/link2",
         "MMM": "https://dgdgdg.com/link2",
-        "mdkdmKSKSS": "https://dgdg.com/link2",
+        "#": "https://dgdg.com/link2",
         "S": "#",
         "101": "https://exampdgdgle.com/link2",
         "MmM": "https://exadgdgdgmple.com/link2",
