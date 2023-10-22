@@ -11,7 +11,7 @@ function getLinkForKey(key) {
         "mmm": "https://dgdg  dg.com/link2",
         "MMM": "https://dgdgdg.com/link2",
         "mdkdmKSKSS": "https://dgdg.com/link2",
-        "S": "https://example.dgdgdgd/link2",
+        "S": "#",
         "101": "https://exampdgdgle.com/link2",
         "MmM": "https://exadgdgdgmple.com/link2",
         // Add more key-to-link mappings as needed
