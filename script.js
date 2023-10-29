@@ -13,7 +13,10 @@ function getLinkForKey(key) {
         "mdkdmKSKSS": "https://dgdg.com/link2",
         "S": "https://example.dgdgdgd/link2",
         "101": "https://exampdgdgle.com/link2",
-        "MmM": "https://exadgdgdgmple.com/link2",
+        "#canva_pro": "https://ln.ki/mirandaelvis",
+
+
+        
         // Add more key-to-link mappings as needed
     };
 
